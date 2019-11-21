@@ -21,4 +21,18 @@ We will use both Python and R to preprocess the data.
 - Then you have to use subset function to get the training and test sets
 - Use scale function to feature scaling the continuous predictors
 
-This my day 1 for Machine Learning course! Let's get something fun in Day 2!
+# Day 2: Simple Linear Regression
+Today, I will build the simple linear regression model with Python and R
+
+1. Python
+- From sklearn.linear_model import LinearRegression to fit the training set
+- Use the predict method of LinearRegression to get the predicting results
+- Use the matplotlib.pyplot to visualize the training and test set results
+
+2. R
+- Use the function lm to fit the training set
+- Use the predict function to get the predicting results
+- Import package ggplot2 to visualize the training and test sets results
+
+
+
